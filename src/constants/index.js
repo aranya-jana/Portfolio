@@ -5,6 +5,9 @@ import project4 from "../assets/projects/project-4.jpg";
 import personal1 from "../assets/personals/personal-1.jpg";
 import personal2 from "../assets/personals/personal-2.jpg";
 import personal3 from "../assets/personals/personal3.jpg";
+import personal5 from "../assets/personals/personal-5.jpg";
+import personal4 from "../assets/personals/personal4.png";
+import Personals from "../components/Personals";
 
 
 
@@ -163,6 +166,16 @@ export const CONTACT = {
 
 
 export const PERSONALS = [
+  {
+    title: "Credit Card Default Prediction",
+    image: personal4,
+    description:
+      "I developed a high-accuracy machine learning model to predict credit card default risk using advanced algorithms and data preprocessing. This project highlights my expertise in data analysis, feature engineering, and model evaluation for financial stability and risk management.",    technologies: ["Machine Learning", "Data Analytics", "Python", "Pandas", "Scikit-Learn", "Jupyter", "Kaggle"],
+    link: "https://www.kaggle.com/code/aranyajana01/credit-card-default-prediction"  // Replace with your actual link for project4
+
+  },
+
+
   {
     title: "Heart Disease Prediction using Logistic Regression",
     image: personal1,
