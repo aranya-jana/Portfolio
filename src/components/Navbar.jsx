@@ -10,7 +10,7 @@ const Navbar = () => {
       </div>
       <div className="flex items-center justify-center gap-6 text-xl lg:text-2xl"> {/* Adjusted text size for responsiveness */}
         <a
-          href="https://www.linkedin.com/in/aranya-jana-4b8017236/"
+          href="https://www.linkedin.com/in/aranyajana/"
           target="_blank"
           rel="noopener noreferrer"
           className="text-gray-300 hover:text-blue-500 transition duration-300 ease-in-out transform hover:scale-110 hover:shadow-lg"
