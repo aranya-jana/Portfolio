@@ -1,6 +1,6 @@
 import React from 'react';
 import profilepic from "../assets/dp2.jpg";
-import pdfCV from "../assets/aranya_jana_cv4.pdf"; // Path to your PDF file
+import pdfCV from "../assets/ARANYA_JANA_Resume.pdf"; // Path to your PDF file
 import { motion } from "framer-motion";
 
 const Hero = () => {
