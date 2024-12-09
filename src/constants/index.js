@@ -7,6 +7,7 @@ import personal2 from "../assets/personals/personal-2.jpg";
 import personal3 from "../assets/personals/personal3.jpg";
 import personal5 from "../assets/personals/personal-5.jpg";
 import personal4 from "../assets/personals/personal4.png";
+import personal6 from "../assets/personals/personal-6.png";
 import Personals from "../components/Personals";
 
 
@@ -172,6 +173,15 @@ export const PERSONALS = [
     description:
       "I developed a high-accuracy machine learning model to predict credit card default risk using advanced algorithms and data preprocessing. This project highlights my expertise in data analysis, feature engineering, and model evaluation for financial stability and risk management.",    technologies: ["Machine Learning", "Data Analytics", "Python", "Pandas", "Scikit-Learn", "Jupyter", "Kaggle"],
     link: "https://www.kaggle.com/code/aranyajana01/credit-card-default-prediction"  // Replace with your actual link for project4
+
+  },
+
+  {
+    title: "Log Analysis Script",
+    image: personal6,
+    description:
+      "The project focuses on assessing our ability to write a Python script that processes log files to extract and analyze key information. This assignment evaluates proficiency in file handling, string manipulation, and data analysis, which are essential skills for cybersecurity-related programming tasks.",    technologies: ["Python", "Data Analytics", "Log Analysis", "Scripting"],
+    link: "https://github.com/aranya-jana/Log-Analysis-Script"  // Replace with your actual link for project4
 
   },
 

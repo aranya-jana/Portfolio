@@ -5,7 +5,7 @@ import { motion } from 'framer-motion';
 
 const Personals = () => {
   return (
-    <div className="pb-4"> {/* Removed the border-b class */}
+    <div className="pb-4">
       <motion.h2 
         whileInView={{ opacity: 1, y: 0 }}
         initial={{ opacity: 0, y: -100 }}
@@ -16,20 +16,18 @@ const Personals = () => {
       </motion.h2>
       <div>
         {PERSONALS.map((personals, index) => (
-          <div key={index} className="mb-8 flex flex-wrap lg:justify-center">
+          <div key={index} className="mb-8 flex flex-wrap lg:justify-center lg:items-center">
             <motion.div 
               whileInView={{ opacity: 1, x: 0 }}
               initial={{ opacity: 0, x: -100 }}
               transition={{ duration: 1 }}
-              className="w-full lg:w-1/4"
+              className="w-full lg:w-1/4 flex justify-center"
             >
               <a href={personals.link} target="_blank" rel="noopener noreferrer">
                 <img
                   src={personals.image}
-                  width={150}
-                  height={150}
                   alt={personals.title}
-                  className="mb-6 rounded"
+                  className="mb-6 rounded object-cover w-[150px] h-[150px]"
                 />
               </a>
             </motion.div>
