@@ -34,7 +34,7 @@ const Navbar = () => {
           <FaKaggle className="cursor-pointer" />
         </a>
         <a
-          href="https://www.facebook.com/aranya.jana.1276"
+          href="https://www.facebook.com/aranyajana01"
           target="_blank"
           rel="noopener noreferrer"
           className="text-gray-300 hover:text-blue-600 transition duration-300 ease-in-out transform hover:scale-110 hover:shadow-lg"
@@ -42,7 +42,7 @@ const Navbar = () => {
           <FaFacebook className="cursor-pointer" />
         </a>
         <a
-          href="https://www.instagram.com/aranyajana_aj"
+          href="https://www.instagram.com/aranyajana_"
           target="_blank"
           rel="noopener noreferrer"
           className="text-gray-300 hover:text-pink-600 transition duration-300 ease-in-out transform hover:scale-110 hover:shadow-lg"
