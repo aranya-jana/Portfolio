@@ -8,6 +8,7 @@ import personal3 from "../assets/personals/personal3.jpg";
 import personal5 from "../assets/personals/personal-5.jpg";
 import personal4 from "../assets/personals/personal4.png";
 import personal6 from "../assets/personals/personal-6.png";
+import personal7 from "../assets/personals/personal-7.png";
 import Personals from "../components/Personals";
 
 
@@ -167,6 +168,14 @@ export const CONTACT = {
 
 
 export const PERSONALS = [
+  {
+    title: "Image Generator AI (Imaginee)",
+    image: personal7,
+    description:
+      "The project focuses on assessing our ability to write a Python script that processes log files to extract and analyze key information. This assignment evaluates proficiency in file handling, string manipulation, and data analysis, which are essential skills for cybersecurity-related programming tasks",    technologies: ["MERN", "Node.js", "APIs", "MongoDB", "Express", "React", "Razorpay"],
+    link: "https://github.com/aranya-jana/Portfolio.git"  // Replace with your actual link for project4
+
+  },
   {
     title: "Credit Card Default Prediction",
     image: personal4,
