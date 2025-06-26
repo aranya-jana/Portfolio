@@ -104,12 +104,28 @@ const About = () => {
                 I'm a student studying Computer Science with a focus on Artificial Intelligence and Machine Learning. I know a lot about coding, databases, networking, and solving problems with machine learning. I can also build full-stack applications. I'm passionate about using technology to solve real-world problems.
               </p>
               <p className="text-lg mb-4"><strong>Education:</strong></p>
+
+
+{/* ....................................................................................... */}
               <div className="mb-4 flex justify-between">
                 <div>
-                  <strong>CSE (AI & ML)</strong><br />
-                  Narula Institute of Technology - B.Tech
+                  <strong>Computer Science and Engineering (AI & DS)</strong><br />
+                  Institute of Engineering and Management - M.Tech
                 </div>
-                <span className="text-neutral-500">2021 - Present</span>
+                <span className="text-neutral-500">2025 - 2027</span>
+              </div>
+{/* ............................................................................................... */}
+
+
+
+
+              <div className="mb-4 flex justify-between">
+                <div>
+                  <strong>Computer Science and Engineering (AI & ML)</strong><br />
+                  Narula Institute of Technology - B.Tech <br/>
+                  <span className="ml-8"><strong>• Percentage: <span className="text-blue-500">76.6%</span></strong></span><br />
+                </div>
+                <span className="text-neutral-500">2021 - 2025</span>
               </div>
               <div className="mb-4 flex justify-between">
                 <div>

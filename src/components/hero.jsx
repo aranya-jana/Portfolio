@@ -1,6 +1,6 @@
 import React from 'react';
 import profilepic from "../assets/dp2.jpg";
-import pdfCV from "../assets/ARANYA_JANA.pdf"; // Ensure the file name matches exactly
+import pdfCV from "../assets/Aranya Jana.pdf"; // Ensure the file name matches exactly
 import { motion } from "framer-motion";
 
 const Hero = () => {
@@ -27,7 +27,7 @@ const Hero = () => {
               transition={{ duration: 1 }}
               className="bg-gradient-to-r from-green-500 via-slate-400 to-blue-500 bg-clip-text text-2xl lg:text-4xl tracking-tight text-transparent pb-4"
             >
-              Student of AI & ML (B.Tech)
+              AI & ML Engineer
             </motion.span>
 
             <motion.p
@@ -36,7 +36,7 @@ const Hero = () => {
               transition={{ duration: 1.5 }}
               className="text-lg mb-4 lg:mb-3 pb-4"
             >
-              I am a Computer Engineering (Specialization in Artificial Intelligence & Machine Learning) student with professional skills in Machine Learning and Full Stack Web Development. I possess strong creative and analytical abilities.
+              I am a Computer Science and Engineering graduate with a specialization in Artificial Intelligence and Machine Learning. I bring professional expertise in Machine Learning and Full Stack Web Development, combining creative problem-solving with strong analytical skills to develop innovative, user-focused solutions.
             </motion.p>
 
             <motion.button
