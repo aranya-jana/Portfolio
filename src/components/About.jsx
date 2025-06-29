@@ -101,7 +101,7 @@ const About = () => {
           <div className="flex justify-center lg:justify-start">
             <div>
               <p className="text-lg mb-4 lg:mb-3">
-                I'm a student studying Computer Science with a focus on Artificial Intelligence and Machine Learning. I know a lot about coding, databases, networking, and solving problems with machine learning. I can also build full-stack applications. I'm passionate about using technology to solve real-world problems.
+                 I'm an M.Tech student studying Computer Science with a focus on Artificial Intelligence and Machine Learning. I have extensive knowledge of coding, databases, networking, and problem-solving using machine learning. I can also build full-stack applications. I'm passionate about using technology to solve real-world problems. 
               </p>
               <p className="text-lg mb-4"><strong>Education:</strong></p>
 
