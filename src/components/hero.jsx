@@ -27,7 +27,7 @@ const Hero = () => {
               transition={{ duration: 1 }}
               className="bg-gradient-to-r from-green-500 via-slate-400 to-blue-500 bg-clip-text text-2xl lg:text-4xl tracking-tight text-transparent pb-4"
             >
-              AI & ML Engineer
+              Python Developer
             </motion.span>
 
             <motion.p
