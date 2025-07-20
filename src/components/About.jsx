@@ -123,7 +123,7 @@ const About = () => {
                 <div>
                   <strong>Computer Science and Engineering (AI & ML)</strong><br />
                   Narula Institute of Technology - B.Tech <br/>
-                  <span className="ml-8"><strong>• Percentage: <span className="text-blue-500">76.6%</span></strong></span><br />
+                  <span className="ml-8"><strong>• CGPA: <span className="text-blue-500">7.65</span></strong></span><br />
                 </div>
                 <span className="text-neutral-500">2021 - 2025</span>
               </div>
