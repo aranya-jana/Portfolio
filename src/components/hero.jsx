@@ -1,6 +1,6 @@
 import React from 'react';
-import profilepic from "../assets/dp2.jpg";
-import pdfCV from "../assets/Aranya Jana.pdf"; // Ensure the file name matches exactly
+import profilepic from "../assets/dp2.webp";
+import pdfCV from "../assets/A_Jana.pdf"; // Ensure the file name matches exactly
 import { motion } from "framer-motion";
 
 const Hero = () => {
@@ -27,7 +27,7 @@ const Hero = () => {
               transition={{ duration: 1 }}
               className="bg-gradient-to-r from-green-500 via-slate-400 to-blue-500 bg-clip-text text-2xl lg:text-4xl tracking-tight text-transparent pb-4"
             >
-              Python Developer
+              Data Science Engineer
             </motion.span>
 
             <motion.p
