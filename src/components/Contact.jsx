@@ -124,7 +124,7 @@ const Contact = () => {
             <FaFacebook size={24} />
           </motion.a>
           <motion.a
-            href="https://www.instagram.com/aranyajana_aj"
+            href="https://www.instagram.com/aranya_jana/"
             className="text-pink-700 transition duration-300 ease-in-out transform hover:scale-110 hover:shadow-lg"
             variants={iconVariants(1.4)}
             initial="initial"

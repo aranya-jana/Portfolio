@@ -109,7 +109,7 @@ const About = () => {
 {/* ....................................................................................... */}
               <div className="mb-4 flex justify-between">
                 <div>
-                  <strong>Computer Science and Engineering (AI & DS)</strong><br />
+                  <strong>Computer Science and Engineering (AI & ML)</strong><br />
                   Institute of Engineering and Management - M.Tech
                 </div>
                 <span className="text-neutral-500">2025 - 2027</span>

@@ -42,7 +42,7 @@ const Navbar = () => {
           <FaFacebook className="cursor-pointer" />
         </a>
         <a
-          href="https://www.instagram.com/aranyajana_"
+          href="https://www.instagram.com/aranya_jana/"
           target="_blank"
           rel="noopener noreferrer"
           className="text-gray-300 hover:text-pink-600 transition duration-300 ease-in-out transform hover:scale-110 hover:shadow-lg"
